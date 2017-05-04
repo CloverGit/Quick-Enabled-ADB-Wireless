@@ -1,2 +1,11 @@
-# Quick-Enabled-ADB-Wireless
+## Quick-Enabled-ADB-Wireless
 启用安卓adb的网络调试
+## 更新日志 
+# 新增-f强制开启选项(纯净模式) V1.2
+# 新增安装选项 V1.2
+# 新增检查root V1.2
+# 针对一些关键字符进行了上色。。。 V1.3
+# 更改检查是否以root执行方式 V1.3
+# 修复一个严重问题 V1.3
+# 修复一些bug V1.2 V1.3
+# 翻译更新
